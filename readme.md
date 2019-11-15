@@ -6,6 +6,7 @@
 	Copyright (c) by
 	Colin F. Turley
 =========================================================
+Requirements: numpy, scipy, pyGPs
 
 These scripts were developed to perform a search for neutrinos
 from six northern blazars using IceCube 40 string data, and
